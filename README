@@ -1,0 +1,5 @@
+#Build
+
+- Open project in XCode
+- Build target "aggregate"
+- Product dlib.framework is located at SRCROOT
