@@ -23,7 +23,7 @@
   "header_dir": "dlib",
   "header_mappings_dir": "dlib.framework/Headers/",
   "libraries": [
-    "stdc++"
+    "stdc++", "dlib"
   ],
   "frameworks": [
   ],
